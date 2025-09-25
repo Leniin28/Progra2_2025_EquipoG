@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/lN6bChjzk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natal\\OneDrive\\Documentos\\Universidad\\6to Semestre\\Programación 2\\Examen_Sondeo\\Examen_Sondeo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

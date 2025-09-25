@@ -1,0 +1,11 @@
+C:\Users\lxlen\Source\Repos\Alumno\Alumno\obj\Debug\Alumno.csproj.AssemblyReference.cache
+C:\Users\lxlen\Source\Repos\Alumno\Alumno\obj\Debug\Alumno.Properties.Resources.resources
+C:\Users\lxlen\Source\Repos\Alumno\Alumno\obj\Debug\Alumno.csproj.GenerateResource.cache
+C:\Users\lxlen\Source\Repos\Alumno\Alumno\obj\Debug\Alumno.csproj.CoreCompileInputs.cache
+C:\Users\lxlen\Source\Repos\Alumno\Alumno\bin\Debug\Alumno.exe.config
+C:\Users\lxlen\Source\Repos\Alumno\Alumno\bin\Debug\Alumno.exe
+C:\Users\lxlen\Source\Repos\Alumno\Alumno\bin\Debug\Alumno.pdb
+C:\Users\lxlen\Source\Repos\Alumno\Alumno\obj\Debug\Alumno.Form1.resources
+C:\Users\lxlen\Source\Repos\Alumno\Alumno\obj\Debug\Alumno.exe
+C:\Users\lxlen\Source\Repos\Alumno\Alumno\obj\Debug\Alumno.pdb
+C:\Users\lxlen\Source\Repos\Alumno\Alumno\obj\Debug\Alumno.exe.config

@@ -1,0 +1,30 @@
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\bin\Debug\net6.0-windows\BancoGUI.exe
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\bin\Debug\net6.0-windows\BancoGUI.deps.json
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\bin\Debug\net6.0-windows\BancoGUI.runtimeconfig.json
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\bin\Debug\net6.0-windows\BancoGUI.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\bin\Debug\net6.0-windows\BancoGUI.pdb
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\obj\Debug\net6.0-windows\refint\BancoGUI.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.pdb
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\BancoGUI\obj\Debug\net6.0-windows\ref\BancoGUI.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\bin\Debug\net6.0-windows\BancoGUI.exe
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\bin\Debug\net6.0-windows\BancoGUI.deps.json
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\bin\Debug\net6.0-windows\BancoGUI.runtimeconfig.json
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\bin\Debug\net6.0-windows\BancoGUI.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\bin\Debug\net6.0-windows\BancoGUI.pdb
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.Form1.resources
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.csproj.GenerateResource.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\obj\Debug\net6.0-windows\refint\BancoGUI.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.pdb
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\obj\Debug\net6.0-windows\BancoGUI.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\BancoGUI\obj\Debug\net6.0-windows\ref\BancoGUI.dll

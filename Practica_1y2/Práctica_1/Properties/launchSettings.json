@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Examen_Sondeo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
