@@ -1,0 +1,28 @@
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\bin\Debug\net8.0\Examen_Sondeo.exe
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\bin\Debug\net8.0\Examen_Sondeo.deps.json
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\bin\Debug\net8.0\Examen_Sondeo.runtimeconfig.json
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\bin\Debug\net8.0\Examen_Sondeo.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\bin\Debug\net8.0\Examen_Sondeo.pdb
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\obj\Debug\net8.0\refint\Examen_Sondeo.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.pdb
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\Examen_Sondeo\obj\Debug\net8.0\ref\Examen_Sondeo.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\bin\Debug\net8.0\Examen_Sondeo.exe
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\bin\Debug\net8.0\Examen_Sondeo.deps.json
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\bin\Debug\net8.0\Examen_Sondeo.runtimeconfig.json
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\bin\Debug\net8.0\Examen_Sondeo.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\bin\Debug\net8.0\Examen_Sondeo.pdb
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\obj\Debug\net8.0\refint\Examen_Sondeo.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.pdb
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\obj\Debug\net8.0\Examen_Sondeo.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Examen_Sondeo\obj\Debug\net8.0\ref\Examen_Sondeo.dll

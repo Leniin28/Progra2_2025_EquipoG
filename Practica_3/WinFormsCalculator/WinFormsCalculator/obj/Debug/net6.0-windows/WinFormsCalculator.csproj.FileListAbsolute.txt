@@ -1,0 +1,14 @@
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\bin\Debug\net6.0-windows\WinFormsCalculator.exe
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\bin\Debug\net6.0-windows\WinFormsCalculator.deps.json
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\bin\Debug\net6.0-windows\WinFormsCalculator.runtimeconfig.json
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\bin\Debug\net6.0-windows\WinFormsCalculator.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\bin\Debug\net6.0-windows\WinFormsCalculator.pdb
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net6.0-windows\refint\WinFormsCalculator.dll
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.pdb
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net6.0-windows\ref\WinFormsCalculator.dll

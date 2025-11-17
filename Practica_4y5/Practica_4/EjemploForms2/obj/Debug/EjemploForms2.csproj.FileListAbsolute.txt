@@ -1,0 +1,12 @@
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\EjemploForms2\bin\Debug\EjemploForms2.exe.config
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\EjemploForms2\bin\Debug\EjemploForms2.exe
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\EjemploForms2\bin\Debug\EjemploForms2.pdb
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\EjemploForms2\obj\Debug\EjemploForms2.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\EjemploForms2\obj\Debug\EjemploForms2.Form1.resources
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\EjemploForms2\obj\Debug\EjemploForms2.Properties.Resources.resources
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\EjemploForms2\obj\Debug\EjemploForms2.csproj.GenerateResource.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\EjemploForms2\obj\Debug\EjemploForms2.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\EjemploForms2\obj\Debug\EjemploForms2.exe
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\EjemploForms2\obj\Debug\EjemploForms2.pdb
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\EjemploForms2\obj\Debug\EjemploForms2.FDatosestudiante.resources
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\EjemploForms2\obj\Debug\EjemploForms2.FDatosGrupo.resources
