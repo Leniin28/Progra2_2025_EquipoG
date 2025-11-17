@@ -1,0 +1,4 @@
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsAlumnos_Completo\bin\WinFormsAlumnos.exe
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsAlumnos_Completo\obj\WinFormsAlumnos.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsAlumnos_Completo\obj\WinFormsAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\WinFormsAlumnos_Completo\obj\WinFormsAlumnos.exe
