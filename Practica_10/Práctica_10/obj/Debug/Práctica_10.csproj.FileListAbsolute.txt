@@ -1,0 +1,12 @@
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Práctica_10\obj\Debug\Práctica_10.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Práctica_10\obj\Debug\Práctica_10.FCatalogoAutomovil.resources
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Práctica_10\obj\Debug\Práctica_10.FDatosAutomovil.resources
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Práctica_10\obj\Debug\Práctica_10.Form1.resources
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Práctica_10\obj\Debug\Práctica_10.Properties.Resources.resources
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Práctica_10\obj\Debug\Práctica_10.csproj.GenerateResource.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Práctica_10\obj\Debug\Práctica_10.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Práctica_10\bin\Debug\Práctica_10.exe.config
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Práctica_10\bin\Debug\Práctica_10.exe
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Práctica_10\bin\Debug\Práctica_10.pdb
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Práctica_10\obj\Debug\Práctica_10.exe
+C:\Users\natal\OneDrive\Documentos\Universidad\6to Semestre\Programación 2\Práctica_10\obj\Debug\Práctica_10.pdb
