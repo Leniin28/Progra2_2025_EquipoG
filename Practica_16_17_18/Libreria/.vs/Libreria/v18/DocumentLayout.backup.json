@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nojer\\source\\repos\\Libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nojer\\AppData\\Local\\Temp\\jqm0hme3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\nojer\\source\\repos\\libreria\\libreria\\base de datos\\query1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\base de datos\\query1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\nojer\\source\\repos\\libreria\\libreria\\fcatalogolibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\fcatalogolibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\nojer\\source\\repos\\libreria\\libreria\\fcatalogoeditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\fcatalogoeditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\nojer\\source\\repos\\libreria\\libreria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\nojer\\source\\repos\\libreria\\libreria\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\nojer\\source\\repos\\libreria\\libreria\\fdatoslibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\fdatoslibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\nojer\\source\\repos\\libreria\\libreria\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\nojer\\source\\repos\\libreria\\libreria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nojer\\AppData\\Local\\Temp\\04qh4mop..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nojer\\AppData\\Local\\Temp\\04qh4mop..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nojer\\AppData\\Local\\Temp\\04qh4mop..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nojer\\AppData\\Local\\Temp\\jqm0hme3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nojer\\AppData\\Local\\Temp\\jqm0hme3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\nojer\\source\\repos\\libreria\\libreria\\base de datos\\query1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\base de datos\\query1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 988,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Query1.sql ",
+              "DocumentMoniker": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\Base de Datos\\Query1.sql",
+              "RelativeDocumentMoniker": "Libreria\\Base de Datos\\Query1.sql",
+              "ToolTip": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\Base de Datos\\Query1.sql",
+              "RelativeToolTip": "Libreria\\Base de Datos\\Query1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-10T16:51:13.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery3.sql ",
+              "DocumentMoniker": "C:\\Users\\nojer\\AppData\\Local\\Temp\\jqm0hme3..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\jqm0hme3..sql",
+              "ToolTip": "SQLQuery3.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-10T16:49:19.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FCatalogoLibros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\FCatalogoLibros.cs",
+              "RelativeDocumentMoniker": "Libreria\\FCatalogoLibros.cs",
+              "ToolTip": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\FCatalogoLibros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Libreria\\FCatalogoLibros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:47:53.564Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FCatalogoEditorial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\FCatalogoEditorial.cs",
+              "RelativeDocumentMoniker": "Libreria\\FCatalogoEditorial.cs",
+              "ToolTip": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\FCatalogoEditorial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Libreria\\FCatalogoEditorial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:46:54.39Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\Form1.cs",
+              "RelativeDocumentMoniker": "Libreria\\Form1.cs",
+              "ToolTip": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Libreria\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:46:41.551Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FDatosLibro.cs",
+              "DocumentMoniker": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\FDatosLibro.cs",
+              "RelativeDocumentMoniker": "Libreria\\FDatosLibro.cs",
+              "ToolTip": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\FDatosLibro.cs",
+              "RelativeToolTip": "Libreria\\FDatosLibro.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:35:49.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Editorial.cs",
+              "DocumentMoniker": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\Editorial.cs",
+              "RelativeDocumentMoniker": "Libreria\\Editorial.cs",
+              "ToolTip": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\Editorial.cs",
+              "RelativeToolTip": "Libreria\\Editorial.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAqwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:35:27.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\Form1.cs",
+              "RelativeDocumentMoniker": "Libreria\\Form1.cs",
+              "ToolTip": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\Form1.cs",
+              "RelativeToolTip": "Libreria\\Form1.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwGEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:35:13.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\Libro.cs",
+              "RelativeDocumentMoniker": "Libreria\\Libro.cs",
+              "ToolTip": "C:\\Users\\nojer\\source\\repos\\Libreria\\Libreria\\Libro.cs",
+              "RelativeToolTip": "Libreria\\Libro.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:34:41.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\nojer\\AppData\\Local\\Temp\\04qh4mop..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\04qh4mop..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-10T16:22:32.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

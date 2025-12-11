@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\jason alexander\\documents\\visual studio proyect\\libreria\\libreria\\base de datos\\query1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\base de datos\\query1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\jason alexander\\documents\\visual studio proyect\\libreria\\libreria\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\jason alexander\\documents\\visual studio proyect\\libreria\\libreria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\jason alexander\\documents\\visual studio proyect\\libreria\\libreria\\fdatoseditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\fdatoseditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\libreria\\fcatalogolibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\fcatalogolibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\jason alexander\\documents\\visual studio proyect\\libreria\\libreria\\fcatalogoeditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\fcatalogoeditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\jason alexander\\documents\\visual studio proyect\\libreria\\libreria\\fdatoseditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\fdatoseditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\libreria\\fcatalogoeditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\fcatalogoeditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\jason alexander\\documents\\visual studio proyect\\libreria\\libreria\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\jason alexander\\documents\\visual studio proyect\\libreria\\libreria\\fdatoslibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\fdatoslibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\jason alexander\\documents\\visual studio proyect\\libreria\\libreria\\fcatalogolibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\fcatalogolibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\libreria\\fdatoslibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\fdatoslibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\jason alexander\\documents\\visual studio proyect\\libreria\\libreria\\base de datos\\query1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\base de datos\\query1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|c:\\users\\jason alexander\\documents\\visual studio proyect\\libreria\\libreria\\base de datos\\query1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2BCB2D8-7BC4-4C95-813D-C01D793D4C27}|Libreria\\Libreria.csproj|solutionrelative:libreria\\base de datos\\query1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Query1.sql ",
+              "DocumentMoniker": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\Base de Datos\\Query1.sql",
+              "RelativeDocumentMoniker": "Libreria\\Base de Datos\\Query1.sql",
+              "ToolTip": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\Base de Datos\\Query1.sql",
+              "RelativeToolTip": "Libreria\\Base de Datos\\Query1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-13T16:20:55.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editorial.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\Editorial.cs",
+              "RelativeDocumentMoniker": "Libreria\\Editorial.cs",
+              "ToolTip": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\Editorial.cs",
+              "RelativeToolTip": "Libreria\\Editorial.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwHcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:57:30.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FDatosEditorial.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FDatosEditorial.cs",
+              "RelativeDocumentMoniker": "Libreria\\FDatosEditorial.cs",
+              "ToolTip": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FDatosEditorial.cs",
+              "RelativeToolTip": "Libreria\\FDatosEditorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T00:59:33.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FCatalogoEditorial.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FCatalogoEditorial.cs",
+              "RelativeDocumentMoniker": "Libreria\\FCatalogoEditorial.cs",
+              "ToolTip": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FCatalogoEditorial.cs",
+              "RelativeToolTip": "Libreria\\FCatalogoEditorial.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAMwE0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T00:47:04.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\Form1.cs",
+              "RelativeDocumentMoniker": "Libreria\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\Form1.cs",
+              "RelativeToolTip": "Libreria\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T00:45:07.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FCatalogoLibros.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FCatalogoLibros.cs",
+              "RelativeDocumentMoniker": "Libreria\\FCatalogoLibros.cs",
+              "ToolTip": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FCatalogoLibros.cs",
+              "RelativeToolTip": "Libreria\\FCatalogoLibros.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T22:20:23.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FDatosLibro.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FDatosLibro.cs",
+              "RelativeDocumentMoniker": "Libreria\\FDatosLibro.cs",
+              "ToolTip": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FDatosLibro.cs",
+              "RelativeToolTip": "Libreria\\FDatosLibro.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T22:21:20.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\Libro.cs",
+              "RelativeDocumentMoniker": "Libreria\\Libro.cs",
+              "ToolTip": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\Libro.cs",
+              "RelativeToolTip": "Libreria\\Libro.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv1wAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:43:11.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FDatosEditorial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FDatosEditorial.cs",
+              "RelativeDocumentMoniker": "Libreria\\FDatosEditorial.cs",
+              "ToolTip": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FDatosEditorial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Libreria\\FDatosEditorial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T00:57:52.496Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FCatalogoEditorial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FCatalogoEditorial.cs",
+              "RelativeDocumentMoniker": "Libreria\\FCatalogoEditorial.cs",
+              "ToolTip": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FCatalogoEditorial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Libreria\\FCatalogoEditorial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T00:45:51.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FCatalogoLibros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FCatalogoLibros.cs",
+              "RelativeDocumentMoniker": "Libreria\\FCatalogoLibros.cs",
+              "ToolTip": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FCatalogoLibros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Libreria\\FCatalogoLibros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:57:22.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FDatosLibro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FDatosLibro.cs",
+              "RelativeDocumentMoniker": "Libreria\\FDatosLibro.cs",
+              "ToolTip": "C:\\Users\\Jason Alexander\\Documents\\Visual Studio Proyect\\Libreria\\Libreria\\FDatosLibro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Libreria\\FDatosLibro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:24:00.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
